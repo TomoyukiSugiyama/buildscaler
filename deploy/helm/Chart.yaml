@@ -1,0 +1,5 @@
+apiVersion: v2
+name: buildscaler
+version: 1.0.0
+sources:
+  - https://github.com/TomoyukiSugiyama/buildscaler/deploy/helm
